@@ -11,7 +11,7 @@
     I am passionate about creating projects and improving my skills to contribute to the world of web development.
 </h3>
 
-## My objetives
+## My goals
 - Learning to work with frameworks like React or Angular ⚛️
 - To contribute to open source projects 🌍
 - Get my first job as junior developer 👨‍💻
