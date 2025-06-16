@@ -6,7 +6,7 @@
 </div>
 <hr>
 <h3>
-    web development student, learning technologies like HTML, CSS, JavaScript, PHP, MySQL, and Git.
+    I'm a web development student, learning technologies like HTML, CSS, JavaScript, PHP, MySQL, and Git.
     <br>
     I am passionate about creating projects and improving my skills to contribute to the world of web development.
 </h3>
