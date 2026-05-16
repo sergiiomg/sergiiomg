@@ -123,7 +123,7 @@ Funcionalidades principales:
 
 ### Kodas Solutions
 
-**Prácticas de desarrollo frontend**
+**Desarrollador frontend**
 
 Durante mis prácticas en Kodas Solutions, adquirí experiencia práctica en el desarrollo frontend y participé activamente en el avance de proyectos en equipo.
 
