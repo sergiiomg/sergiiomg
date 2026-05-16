@@ -1,21 +1,39 @@
+<div align="center">
+
 # Hola, soy Sergio Melendi
 
-## Fullstack Developer Junior
+### Desarrollador Fullstack Junior | Angular · TypeScript · Node.js · Python
 
-Soy desarrollador junior recién titulado en **Desarrollo de Aplicaciones Web (DAW)** y **Desarrollo de Aplicaciones Multiplataforma (DAM)**, con experiencia práctica en entornos de empresa y varios proyectos personales enfocados en aplicaciones web, móviles y de escritorio.
+Apasionado por crear aplicaciones útiles, bien estructuradas y con una buena experiencia de usuario.
 
-Me interesa crear soluciones útiles, bien estructuradas y con una buena experiencia de usuario. Actualmente estoy enfocado en seguir creciendo como desarrollador fullstack, mejorar mis habilidades técnicas y seguir construyendo proyectos que combinen frontend, backend, bases de datos e integración con APIs.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sergio%20Melendi%20García-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sergio-melendi-garc%C3%ADa/)
+[![Email](https://img.shields.io/badge/Email-sergiiomgdaw%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:sergiiomgdaw@gmail.com)
+
+</div>
 
 ---
 
 ## Sobre mí
 
+Soy desarrollador junior recién titulado en **Desarrollo de Aplicaciones Web (DAW)** y **Desarrollo de Aplicaciones Multiplataforma (DAM)**, con experiencia práctica en empresa y proyectos personales orientados a aplicaciones web, móviles y de escritorio.
+
+Me interesa crear soluciones funcionales, limpias y escalables, combinando frontend, backend, bases de datos e integración con APIs. Actualmente busco una oportunidad como **desarrollador junior** donde poder aportar, seguir aprendiendo y crecer dentro de un equipo técnico.
+
 * Técnico Superior en **DAW** y **DAM**.
 * Perfil orientado al desarrollo **fullstack**.
-* Experiencia desarrollando proyectos con **Angular, TypeScript, Node.js, Express, MySQL y MongoDB**.
-* Experiencia práctica en empresas trabajando con frontend, soporte software, análisis de logs, workflows y bases de datos.
+* Experiencia con **Angular, TypeScript, Node.js, Express, MySQL, MongoDB y Python**.
+* Experiencia en empresa con desarrollo frontend, soporte software, análisis de logs, workflows y bases de datos.
 * Interés en aplicaciones web, móviles, APIs REST, arquitectura limpia y mejora continua.
 * Actualmente buscando oportunidades como **desarrollador junior**.
+
+---
+
+## Actualmente enfocado en
+
+* Mejorar mis habilidades como desarrollador fullstack.
+* Crear proyectos completos con frontend, backend y base de datos.
+* Profundizar en buenas prácticas, arquitectura y código mantenible.
+* Seguir aprendiendo sobre APIs, arquitectura, rendimiento, seguridad y experiencia de usuario.
 
 ---
 
@@ -32,6 +50,7 @@ Me interesa crear soluciones útiles, bien estructuradas y con una buena experie
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&logo=csharp\&logoColor=white)
 
 ### Bases de datos
 
@@ -42,13 +61,40 @@ Me interesa crear soluciones útiles, bien estructuradas y con una buena experie
 ### Herramientas
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 ![REST API](https://img.shields.io/badge/API_REST-02569B?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&logo=csharp\&logoColor=white)
 
 ---
 
 ## Proyectos destacados
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Checkpoint</h3>
+      <p><strong>Red social web para gamers.</strong></p>
+      <p><strong>Stack:</strong> Angular, TypeScript, Node.js, Express, MySQL, Postman.</p>
+      <p><a href="https://github.com/sergiiomg/checkpoint">Ver repositorio</a></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>LearnLytics</h3>
+      <p><strong>Aplicación móvil para estudiantes con análisis inteligente del rendimiento académico.</strong></p>
+      <p><strong>Stack:</strong> Ionic, Angular, TypeScript, Node.js, Express, MongoDB, Postman, API OpenAI.</p>
+      <p><a href="https://github.com/sergiiomg/learnlytics">Ver repositorio</a></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Vault</h3>
+      <p><strong>Gestor de contraseñas de escritorio centrado en seguridad y privacidad.</strong></p>
+      <p><strong>Stack:</strong> Python.</p>
+      <p><a href="https://github.com/sergiiomg/localvault">Ver repositorio</a></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Detalle de proyectos
 
 ### Checkpoint
 
@@ -115,7 +161,7 @@ Funcionalidades principales:
 
 **Tecnologías:** Python.
 
-[Repositorio](https://github.com/sergiiomg/LocalVault)
+[Repositorio](https://github.com/sergiiomg/localvault)
 
 ---
 
@@ -160,13 +206,47 @@ Principales responsabilidades:
 
 ---
 
-## Contacto
+## 📊 GitHub Stats
 
-* LinkedIn: [Sergio Melendi García](https://www.linkedin.com/in/sergio-melendi-garc%C3%ADa/)
-* Email: [sergiiomgdaw@gmail.com](mailto:sergiiomgdaw@gmail.com)
+<div align="center">
+
+![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiiomg\&show_icons=true\&theme=tokyonight\&hide_border=true\&locale=es)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiiomg\&layout=compact\&theme=tokyonight\&hide_border=true\&locale=es)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sergiiomg\&theme=tokyonight\&hide_border=true\&locale=es)
+
+</div>
 
 ---
 
-## Actualmente
+## 🧩 Lo que puedo aportar
 
-Estoy buscando mi primera oportunidad profesional como desarrollador junior, donde pueda seguir aprendiendo, aportar en proyectos reales y crecer dentro de un equipo técnico.
+* Capacidad para desarrollar aplicaciones completas, desde la interfaz hasta la base de datos.
+* Experiencia trabajando con proyectos reales en equipo.
+* Mentalidad resolutiva y orientación al aprendizaje continuo.
+* Conocimientos tanto de desarrollo como de soporte técnico y diagnóstico de incidencias.
+* Cuidado por la organización del código, la documentación y la experiencia de usuario.
+
+---
+
+## Contacto
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sergio%20Melendi%20García-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sergio-melendi-garc%C3%ADa/)
+[![Email](https://img.shields.io/badge/Email-sergiiomgdaw%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:sergiiomgdaw@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Abierto a oportunidades como desarrollador junior
+
+Gracias por visitar mi perfil.
+
+![Profile views](https://komarev.com/ghpvc/?username=sergiiomg\&style=for-the-badge\&color=blueviolet)
+
+</div>
