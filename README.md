@@ -210,10 +210,6 @@ Principales responsabilidades:
 
 <div align="center">
 
-![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiiomg\&show_icons=true\&theme=tokyonight\&hide_border=true\&locale=es)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiiomg\&layout=compact\&theme=tokyonight\&hide_border=true\&locale=es)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=sergiiomg\&theme=tokyonight\&hide_border=true\&locale=es)
 
 </div>
