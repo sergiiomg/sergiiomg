@@ -206,7 +206,7 @@ Principales responsabilidades:
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -216,7 +216,7 @@ Principales responsabilidades:
 
 ---
 
-## 🧩 Lo que puedo aportar
+## Lo que puedo aportar
 
 * Capacidad para desarrollar aplicaciones completas, desde la interfaz hasta la base de datos.
 * Experiencia trabajando con proyectos reales en equipo.
@@ -239,7 +239,7 @@ Principales responsabilidades:
 
 <div align="center">
 
-### 🚀 Abierto a oportunidades como desarrollador junior
+### Abierto a oportunidades como desarrollador junior
 
 Gracias por visitar mi perfil.
 
